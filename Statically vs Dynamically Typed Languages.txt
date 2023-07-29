@@ -1,0 +1,26 @@
+=> Statically typed and dynamically typed languages are two different approaches to type systems
+ in programming languages. The type system governs how variables and values are categorized and
+  handled based on their data types
+
+1 => Statically Typed Languages {
+ In statically typed languages, the data types of variables are determined at compile-time,
+ and once a variable is declared with a specific type, it cannot change during the program's
+ execution. The type checking is done at compile-time, which means that potential type-related
+ errors are caught before the program is run.
+    Advantages of Statically Typed Languages {
+    - Early detection of type-related errors
+    - Improved code quality and reliability
+    - Enhanced performance
+    }
+}
+
+2=> Dynamically Typed Languages {
+ In dynamically typed languages, the data types of variables are determined at runtime,
+ meaning that a variable can hold values of different types during the program's execution.
+ Type checking is performed during runtime when the code is executed.
+     Advantages of Dynamically Typed Languages: {
+        - Flexibility and ease of use
+        - Concise and expressive code(شفرة موجزة وتعبيرية)
+        - Faster development
+     }
+}
